@@ -16,7 +16,7 @@ psycopg2==2.8.4
 psycopg2-binary==2.8.4
 psycopg2-pool==1.1
 pylint==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-decouple==3.3
 pytz==2019.3
 reportlab==3.5.42
